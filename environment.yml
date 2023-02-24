@@ -88,4 +88,3 @@ dependencies:
   - micro==2.0.8
   - websockify==0.11.0
   - python-pdfkit==1.0.0
-prefix: /srv/conda/envs/notebook
